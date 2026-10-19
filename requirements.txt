@@ -1,0 +1,10 @@
+# IMPORTANT: pin scikit-learn to the version you trained with (run: pip show scikit-learn)
+# e.g. scikit-learn==1.5.2 -- saved .pkl models must be loaded with the same version.
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+xgboost
+seaborn
+matplotlib
