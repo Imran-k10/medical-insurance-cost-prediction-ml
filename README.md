@@ -1,4 +1,5 @@
 # 💵 Medical Insurance Cost Prediction
+🔗 **Live demo:** [Try the app](https://imran-insurance-cost-predictor.streamlit.app/)
 
 Predict a person's annual medical insurance cost from health, lifestyle and demographic data, with a Streamlit app for instant predictions.
 
